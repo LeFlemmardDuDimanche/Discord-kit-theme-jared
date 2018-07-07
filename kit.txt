@@ -1,0 +1,25 @@
+//META{"name":"","description":"","author":"","version":""}*//{}
+
+
+@import url(https://rawgit.com/KaminariKillua/Themes/master/PrismPrison.8.css);
+
+/* ========== CUSTOMIZABLE VARIABLES ========== */
+:root {
+/* COLOURS */
+         --main-color: # ;
+         --hover-color: # ;
+         --channel-color: # ;
+--base-color: # ;
+--accent-color: # ;
+         
+/* IMAGES */
+         --background-image: url();
+         --dm-image: url();         
+         --profile-image: url();
+         --nsfw-image: url();
+
+/* MISC */
+         --background-blur: 0px;
+         --background-brightness: 100%;
+         --emoji-size: 20px;
+}
